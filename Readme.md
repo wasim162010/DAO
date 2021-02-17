@@ -1,4 +1,4 @@
-DAO
+
 In order to work on smart contract, you can use the "http://remix.ethereum.org/"
 
 This project intends to implement the ERC20 contract by enabling the upgrade of smart contract by using the concept of the proxy.
